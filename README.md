@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88)
 
 <div align="justify">
-  My name is Alejandro J. Foucault, a passionate self-taught Full Stack Developer from California.
+  My name is Alejandro J. Foucault, a passionate Junior Software Developer from California.
 </div>
 
 # 🔧 Technologies & Tools
