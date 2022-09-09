@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88)
 
 <div align="justify">
-  I'm Alejandro J. Foucault, a passionate Junior Software Developer from California working at a company for the movie industry in Los Angeles.
+  I'm Alejandro J. Foucault, a passionate Junior Software Developer based in California working at a company in the movie industry in the greater L.A. area.
 </div>
 
 # 🔧 Technologies & Tools
