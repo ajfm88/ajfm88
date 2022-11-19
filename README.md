@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88)
 
 <div align="justify">
-  I'm Alejandro J. Foucault, a passionate Junior Software Developer based in California working at a company in the Hollywood movie industry located in the greater Los Angeles area.
+  I'm Alejandro J. Foucault, a passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.
 </div>
 
 # 🔧 Technologies & Tools
@@ -66,12 +66,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Tailwind CSS"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Tailwind CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
