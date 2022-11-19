@@ -71,7 +71,7 @@
         height="48"
         alt="Tailwind CSS"
       />
-      <br /><strong>Tailwind CSS</strong>
+      <br /><strong>TailwindCSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
