@@ -13,7 +13,8 @@
     <td align="center" height="108" width="108">
       <a href="https://html.spec.whatwg.org/multipage" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
         alt="HTML"
@@ -23,7 +24,8 @@
     <td align="center" height="108" width="108">
       <a href="https://www.w3.org/Style/CSS" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
         alt="CSS3"
@@ -33,7 +35,8 @@
     <td align="center" height="108" width="108">
       <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
         alt="JavaScript"
