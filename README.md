@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <a href="https://html.spec.whatwg.org/multipage" target="_blank">
+      <a href="https://html.spec.whatwg.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
