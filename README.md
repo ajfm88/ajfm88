@@ -54,26 +54,6 @@
       <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://graphql.org" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-        width="48"
-        height="48"
-        alt="GraphQL"
-      />
-      <br /><strong>GraphQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://firebase.google.com" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
       <a href="https://tailwindcss.com" target="_blank">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -92,6 +72,26 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://firebase.google.com" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://graphql.org" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        width="48"
+        height="48"
+        alt="GraphQL"
+      />
+      <br /><strong>GraphQL</strong>
     </td>
   </tr>
   <tr>
@@ -138,14 +138,14 @@
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://www.python.org" target="_blank">
+      <a href="https://redux.js.org" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="Redux"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://nextjs.org" target="_blank">
@@ -167,14 +167,14 @@
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://github.com" target="_blank">
+      <a href="https://www.python.org" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="GitHub"
+        alt="Python"
       />
-      <br /><strong>GitHub</strong>
+      <br /><strong>Python</strong>
     </td>
   </tr>
 </table>
