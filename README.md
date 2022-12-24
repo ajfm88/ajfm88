@@ -1,12 +1,16 @@
-# Hey there 👋
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center" alt ="Coding Guy">
+<h1 align="center">Hey there! 👋 I’m Alejandro</h1>
+<h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88)
+# 👨🏽‍💻 A bit more about me:
+- 🌱 At work, I use: ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)![Node](https://img.shields.io/badge/-Node-339933?&logo=nodedotjs&logoColor=ffffff)![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
+- 📈 I’m currently learning: ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=ffffff)
+- 📢 Languages spoken: 🇻🇪 Spanish, 🇺🇸 English, 🇯🇵 Japanese (Intermediate - N3)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajfm88/?locale=en_US)](https://www.linkedin.com/in/ajfm88/?locale=en_US)
+- 🤓 Fun fact: 🍜 I love ramen and even worked at a ramen shop and learned a bit about how to make Tonkotsu ramen and Tsukemen. 🍜
+- 💬 Some of my interests: ✝️ Faith, 💪🏽 Fitness, 📚 Reading.
 
-<div align="justify">
-  I'm Alejandro J. Foucault, a passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.
-</div>
-
-# 🔧 Technologies & Tools
+# 🔧 Technologies & Tools:
 
 <table>
   <tr>
@@ -178,3 +182,7 @@
     </td>
   </tr>
 </table>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajfm88&show_icons=true&locale=en&layout=compact" alt="ajfm88"/></p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88)
