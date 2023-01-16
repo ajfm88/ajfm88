@@ -187,8 +187,7 @@
 
 ## 📈 GitHub Statistics & Contributions 🐍:
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajfm88&show_icons=true&locale=en&layout=compact" alt="ajfm88's Top Langs"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=ajfm88&show_icons=true&theme=transparent" alt="ajfm88's GitHub stats"/></p>
-<p>
+<img align="left" src="https://github-readme-stats-ajfm88.vercel.app/api/top-langs?username=ajfm88&show_icons=true&locale=en&layout=compact" alt="ajfm88's Top Langs"/>
   <a href="https://github.com/ajfm88/ajfm88">
     <img alt="Snake contributions graph" src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg">
   </a>
