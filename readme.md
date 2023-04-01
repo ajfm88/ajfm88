@@ -60,6 +60,16 @@
       <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
+      <a href="https://www.python.org" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <a href="https://tailwindcss.com" target="_blank">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -78,16 +88,6 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://firebase.google.com" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://graphql.org" target="_blank">
@@ -173,14 +173,14 @@
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://www.python.org" target="_blank">
+      <a href="https://firebase.google.com" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="Firebase"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
 </table>
