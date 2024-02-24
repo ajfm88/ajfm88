@@ -1,5 +1,5 @@
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center" alt ="Coding Guy">
-<h1 align="center">Hola Amigos(as)! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1>
+<h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1>
 <h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3>
 
 ## 👨🏽‍💻 A bit more about me:
@@ -72,7 +72,7 @@
     <td align="center" height="108" width="108">
       <a href="https://tailwindcss.com" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
         alt="TailwindCSS"
@@ -135,8 +135,8 @@
     <td align="center" height="108" width="108">
       <a href="https://nodejs.org" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        null="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
         alt="Node.js"
@@ -185,12 +185,12 @@
   </tr>
 </table>
 
-## 📈 GitHub Statistics & Contributions 🐍:
+## 🐍 GitHub Commits & Contributions:
+<a href="https://github.com/ajfm88/ajfm88">
+  <img alt="Snake contributions graph" src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg">
+</a>
 
-<img align="left" src="https://github-readme-stats-ajfm88.vercel.app/api/top-langs?username=ajfm88&show_icons=true&locale=en&layout=compact" alt="ajfm88's Top Langs"/>
-  <a href="https://github.com/ajfm88/ajfm88">
-    <img alt="Snake contributions graph" src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
+## 📈 Language Statistics:
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88's Top Langs"/>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88) -->
