@@ -3,14 +3,14 @@
 <h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3>
 
 ## 👨🏽‍💻 A bit more about me:
-- 🌍 I always look for opportunities to network with other like-minded professionals and share ideas.
-- 💡 I am constantly exploring new trends and learning new technologies.
-- 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node](https://img.shields.io/badge/-Node-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)](https://github.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) [![VS Code](https://img.shields.io/badge/-VSCode-%230078D7?&logo=visual-studio-code)](https://code.visualstudio.com)
-- 📈 I’m currently learning: [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org) [![Redux](https://img.shields.io/badge/-Redux-7231C6?&logo=redux&logoColor=ffffff)](https://redux.js.org)
-- 📢 Languages spoken: 🇻🇪 Spanish, 🇺🇸 English, 🇯🇵 Japanese (Intermediate - N3).
-- 📬 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-1877F2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ajfm88) [![Instagram](https://img.shields.io/badge/-Instagram-F56040?&logo=Instagram&logoColor=000000)](https://www.instagram.com/ajfm88) [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/ajfm88) [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000&link=https://www.tiktok.com/@ajfm88)](https://www.tiktok.com/@ajfm88) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/ajfm88) [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://www.yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) [![Resume](https://img.shields.io/badge/-Resume-DAA520?&logo=Academia&logoColor=000000)](https://drive.google.com/file/d/1ajr79AgRGGsdJmpMflakwvCeGIMdHOp5/view)
-- ⚡ Fun fact: I am a Yelp Elite Squad member who loves ramen, especially Tonkotsu ramen and Tsukemen. 🍜
-- 💬 Some of my interests: ✝️ Faith, 💪🏽 Fitness, 📚 Reading.
+- 🌍 I always look for opportunities to network with other like-minded professionals and share ideas
+- 💡 I am constantly exploring new trends and learning new technologies
+- 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)
+- 📈 I’m currently learning: [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org) [![Redux](https://img.shields.io/badge/-Redux-7231C6?&logo=redux&logoColor=ffffff)](https://redux.js.org) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com)
+- 📢 Languages spoken: 🇺🇸 English | 🇻🇪 Spanish | 🇯🇵 Japanese (Intermediate - N3)
+- 📬 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-1877F2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ajfm88) [![Instagram](https://img.shields.io/badge/-Instagram-F56040?&logo=Instagram&logoColor=000000)](https://www.instagram.com/ajfm88) [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/ajfm88) [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000&link=https://www.tiktok.com/@ajfm88)](https://www.tiktok.com/@ajfm88) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/ajfm88) [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://www.yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@ajfm88) [![Resume](https://img.shields.io/badge/-Resume-DAA520?&logo=Academia&logoColor=000000)](https://drive.google.com/file/d/1rQJVJGk3Yovzh0yRrRO7cjZyObr22Uqk/view?usp=sharing) [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
+- ⚡ Fun fact: I am a Yelp Elite Squad member who loves ramen, especially Tonkotsu ramen and Tsukemen 🍜
+- 💬 Some of my interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading
 
 ## 🔧 Technologies & Tools:
 
@@ -90,14 +90,14 @@
       <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://graphql.org" target="_blank">
+      <a href="https://aws.amazon.com" target="_blank">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         width="48"
         height="48"
-        alt="GraphQL"
+        alt="AWS"
       />
-      <br /><strong>GraphQL</strong>
+      <br /><strong>AWS</strong>
     </td>
   </tr>
   <tr>
