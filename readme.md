@@ -190,7 +190,9 @@
   <img alt="Snake contributions graph" src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg">
 </a>
 
-## 👨🏽‍💻 Me At Work & Language Statistics 📈:
+## 👨🏽‍💻 Most Used Language Statistics 📈:
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88) -->
-<img align="left" height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/>
+<!-- <img align="left" height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/> -->
+![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
