@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" />
 </p>
 
-## 👨🏽‍💻 A bit more about me:
+## 💭 A bit more about me 🔍
 - 🌍 I always look for opportunities to network with other like-minded professionals and share ideas
 - 💡 I am constantly exploring new trends and learning new technologies
 - 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)
@@ -193,7 +193,7 @@
   </table>
 </p>
 
-## 🐍 GitHub Commits & Contributions ⭐
+## ⭐ GitHub Commits & Contributions 🐍
 <p align="center">
   <a href="https://github.com/ajfm88/ajfm88">
     <img src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg" alt="Snake">
@@ -205,7 +205,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/> -->
 ![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-## 💻 Me At Work 💼
+## 👨🏽‍💻 Me At Work 💼
 <p align="center">
   <!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
   <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" />
