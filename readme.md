@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" alt ="Coding Guy">
+  <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" alt ="Coding Guy"> -->
+  <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" />
 </p>
 <h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1>
 <h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3>
@@ -210,8 +211,4 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/> -->
 ![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-## 👨🏽‍💻 Me At Work 💼
-<p align="center">
   <!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
-  <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" />
-</p>
