@@ -49,14 +49,14 @@
       <td align="center" height="108" width="108">
         <a href="https://javascript.info" target="_blank">
         <img
-          null="https://techstack-generator.vercel.app/js-icon.svg"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          null2="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+          null="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          null1="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+          src="https://miro.medium.com/v2/1*-tOldEbfjijxn9VqZeULqg.gif"
           width="65"
           height="65"
           alt="JavaScript"
         />
-        <br /><strong>JavaScript</strong>
+        <strong>JavaScript</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://typescriptlang.org" target="_blank">
@@ -206,9 +206,6 @@
   </a>
 </p>
 
-## 📊 Most Used Language Stats 📈
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/> -->
-<!-- ![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif) -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
+<!-- ![JavaScript](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif) -->
+<!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
