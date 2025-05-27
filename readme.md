@@ -51,7 +51,7 @@
         <img
           null="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           null1="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-          src="https://miro.medium.com/v2/1*-tOldEbfjijxn9VqZeULqg.gif"
+          src="./JavaScript.gif"
           width="65"
           height="65"
           alt="JavaScript"
