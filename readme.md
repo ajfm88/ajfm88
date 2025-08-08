@@ -1,10 +1,14 @@
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" alt ="Coding Guy"> -->
-  <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" />
+  <!-- <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" /> -->
+  <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
+  <img width="800" height="450" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="The Matrix" />
 </p>
-<h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1>
-<h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile!;My+name+is+Alejandro+Foucault;I’m+a+Full+Stack+Developer&center=true"; alt="Typing SVG" />
+</div>
+<!-- <h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1> -->
+<!-- <h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3> -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" />
 </p>
