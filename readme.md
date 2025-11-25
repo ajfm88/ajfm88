@@ -14,21 +14,21 @@
 </p>
 <img align="right" src="https://camo.githubusercontent.com/3e24a10b0a13ca191ee62819310444dbc0c9960c0b2c212b921b48c569a9303d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63656c6164616e69656c" alt="GitHub profile views counter">
 
-## 💭 A bit more about me 🔍
+## 🔎 A bit more about me:
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
 - 🌍 I always look for opportunities to network with other like-minded professionals.
 - 💡 I am constantly exploring new trends and learning new technologies.
-- 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) <!--[![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com)--> [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) <!--[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)-->
+- 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) <!--[![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS)--> [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) <!--[![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com)--> [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) <!--[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)-->
 - 📈 I’m also proficient in: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org) [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org) [![C#](https://img.shields.io/badge/C%23-7231C6?&logo=unity)](https://dotnet.microsoft.com/en-us/languages/csharp) [![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?logo=mysql&logoColor=ffffff)](https://www.mysql.com)
 - 📢 Languages spoken: 🇺🇸 English | 🇻🇪 / 🇪🇸 Spanish | 🇯🇵 Japanese (Intermediate).
-- 📬 How to reach me: [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ajfm88) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfm88) [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88) <!--[![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ajfm88)--> [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) <!--[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)--> [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
-- ⚡ Fun fact: I am a Yelp Elite Squad member who loves ramen. 🍜
+- 📬 How to reach me: [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ajfm88) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfm88) [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88) <!--[![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ajfm88)--> <!--[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)--> [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
+- ⚡ Fun fact: I am a [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) Elite Squad member who loves ramen. 🍜
 - 💬 Some of my interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading.
 
-## 🛠️ Technologies & Tools 🔧
+## 🛠️ Technologies & Tools:
 
 <p align="center">
   <table>
@@ -208,7 +208,7 @@
   </table>
 </p>
 
-## ⭐ GitHub Commits & Contributions 🐍
+## ⭐ GitHub Commits & Contributions:
 <p align="center">
   <a href="https://github.com/ajfm88/ajfm88">
     <img src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg" alt="Snake">
@@ -219,7 +219,7 @@
 <!-- ![JavaScript](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif) -->
 <!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
 
-## 🎯 Professional Objective 📈
+## 🎯 Professional Objective:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0b081080-f36d-4729-af06-f5217e3b096a" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
