@@ -19,15 +19,38 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-- 🌍 Always seeking to network with fellow Software Engineers.
-- 💡 Constantly learning new technologies and challenging myself.
-- 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) <!--[![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS)--> [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) <!--[![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com)--> [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) <!--[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)-->
-- 📈 I’m also proficient in: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org) [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org) [![C#](https://img.shields.io/badge/C%23-7231C6?&logo=unity)](https://dotnet.microsoft.com/en-us/languages/csharp) [![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?logo=mysql&logoColor=ffffff)](https://www.mysql.com)
+- 🌐 Web technologies I am proficient in: 
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info)
+- 🌱 At work, I use: 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com)
+[![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat)](https://expressjs.com)
+[![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org)
+- 📈 I’m also proficient in: 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org)
+[![C#](https://img.shields.io/badge/C%23-7231C6?&logo=unity)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?logo=mysql&logoColor=ffffff)](https://www.mysql.com)
+- 🔧 Development tools:
+[![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-%231a202c?&logo=github&logoColor=ffffff)](https://github.com)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com)
+- 📬 How to reach me: 
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ajfm88)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfm88)
+[![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
 - 📢 Languages spoken: 🇺🇸 English | 🇻🇪 / 🇪🇸 Spanish | 🇯🇵 Japanese (Intermediate).
-- 📬 How to reach me: [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ajfm88) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfm88) [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88) <!--[![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ajfm88)--> <!--[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)--> [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
 - ⚡ Fun fact: I am a [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) Elite Squad member who loves ramen. 🍜
 - 💬 Some of my interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading.
-
+<!--
+- 🥳 My fun side:
+[![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ajfm88)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)
+-->
 ## 🛠️ Technologies & Tools:
 
 <p align="center">
