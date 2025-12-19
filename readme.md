@@ -1,8 +1,7 @@
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" alt ="Coding Guy"> -->
   <!-- <img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" /> -->
-  <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
-  <img width="800" height="450" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="The Matrix" />
+  <img width="800" height="450" src="./matrix.svg" alt="The Matrix" />
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile!;My+name+is+Alejandro+Foucault;I’m+a+Full+Stack+Developer&center=true"; alt="Typing SVG" />
@@ -81,9 +80,9 @@
       <td align="center" height="108" width="108">
         <a href="https://javascript.info" target="_blank">
         <img
-          null="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-          null2="./JavaScript.gif"
+          animated="./JavaScript.gif"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          white="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
           width="65"
           height="65"
           alt="JavaScript"
@@ -239,7 +238,9 @@
 </p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88’s Top Langs"/> -->
+
 <!-- ![JavaScript](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif) -->
+
 <!-- <img height="200" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Mario Coding (Cut Off)"/> -->
 
 ## 🎯 Professional Objective:
