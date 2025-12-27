@@ -65,6 +65,7 @@
           alt="HTML"
         />
         <br /><strong>HTML5</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://w3.org/Style/CSS" target="_blank">
@@ -76,6 +77,7 @@
           alt="CSS3"
         />
         <br /><strong>CSS3</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://javascript.info" target="_blank">
@@ -87,7 +89,8 @@
           height="65"
           alt="JavaScript"
         />
-        <strong>JavaScript</strong>
+        <br /><strong>JavaScript</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://typescriptlang.org" target="_blank">
@@ -98,6 +101,7 @@
           alt="TypeScript"
         />
         <br /><strong>TypeScript</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://python.org" target="_blank">
@@ -109,6 +113,7 @@
           alt="Python"
         />
         <br /><strong>Python</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
@@ -119,6 +124,7 @@
           alt="C#"
         />
         <br /><strong>C#</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://www.mysql.com" target="_blank">
@@ -129,6 +135,7 @@
           alt="MySQL"
         />
         <br /><strong>MySQL</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://aws.amazon.com" target="_blank">
@@ -140,6 +147,7 @@
           alt="AWS"
         />
         <br /><strong>AWS</strong>
+        </a>
       </td>
     </tr>
     <tr>
@@ -153,6 +161,7 @@
           alt="MongoDB"
         />
         <br /><strong>MongoDB</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://expressjs.com" target="_blank">
@@ -163,6 +172,7 @@
           alt="Express"
         />
         <br /><strong>Express</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://react.dev" target="_blank">
@@ -174,6 +184,7 @@
           alt="React"
         />
         <br /><strong>React</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://nodejs.org" target="_blank">
@@ -185,6 +196,30 @@
           alt="Node.js"
         />
         <br /><strong>Node.js</strong>
+        </a>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://restfulapi.net" target="_blank">
+        <img
+          src="https://techstack-generator.vercel.app/restapi-icon.svg"
+          width="65"
+          height="65"
+          alt="REST API"
+        />
+        <br /><strong>REST API</strong>
+        </a>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://prettier.io" target="_blank">
+        <img
+          src="https://techstack-generator.vercel.app/prettier-icon.svg"
+          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+          width="65"
+          height="65"
+          alt="Prettier"
+        />
+        <br /><strong>Prettier</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://redux.js.org" target="_blank">
@@ -196,25 +231,7 @@
           alt="Redux"
         />
         <br /><strong>Redux</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://nextjs.org" target="_blank">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-          width="65"
-          height="65"
-          alt="NextJS"
-        />
-        <br /><strong>NextJS</strong>
-      <td align="center" height="108" width="108">
-        <a href="https://git-scm.com" target="_blank">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          width="65"
-          height="65"
-          alt="Git"
-        />
-        <br /><strong>Git</strong>
+        </a>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://github.com" target="_blank">
@@ -225,6 +242,7 @@
           alt="GitHub"
         />
         <br /><strong>GitHub</strong>
+        </a>
       </td>
     </tr>
   </table>
