@@ -11,11 +11,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" />
 </p>
-<img align="right" src="https://camo.githubusercontent.com/3e24a10b0a13ca191ee62819310444dbc0c9960c0b2c212b921b48c569a9303d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63656c6164616e69656c" alt="GitHub profile views counter">
 
 ## 🔎 About Me:
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="A professional animation coder gif"/>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
 - 🌐 Web Technologies:
