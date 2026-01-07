@@ -43,14 +43,14 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://linux.org)
 - 📬 How to reach me: 
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ajfm88)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfm88)
-[![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/ajfm88)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagr.am/ajfm88)
 - 📢 Languages: 🇺🇸 English | 🇻🇪 / 🇪🇸 Spanish | 🇯🇵 Japanese (JLPT N4).
 - ⚡ Fun fact: I am a [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) Elite Squad member who loves ramen. 🍜
 - 💬 Interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading.
 <!-- 
 - 🥳 My fun side:
+[![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)](https://facebook.com/ajfm88)
 [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/ajfm88)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)
