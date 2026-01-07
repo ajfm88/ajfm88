@@ -49,12 +49,14 @@
 - 📢 Languages: 🇺🇸 English | 🇻🇪 / 🇪🇸 Spanish | 🇯🇵 Japanese (JLPT N4).
 - ⚡ Fun fact: I am a [![Yelp](https://img.shields.io/badge/-Yelp-C41200?&logo=Yelp&logoColor=FFFFFF)](https://yelp.com/user_details?userid=JBqCl4WE7g9SPR-0y0tJzQ) Elite Squad member who loves ramen. 🍜
 - 💬 Interests: ✝️ Faith | 💪🏽 Fitness | 📚 Reading | 📈 Day Trading.
+<!-- 
 - 🥳 My fun side:
 [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000)](https://tiktok.com/@ajfm88)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/ajfm88)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://threads.net/@ajfm88)
 [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=white)](https://tumblr.com/blog/ajfm88)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](http://ajfm88.bsky.social)
+ -->
 ## 🛠️ Technologies & Tools:
 
 <p align="center">
