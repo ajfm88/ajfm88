@@ -17,7 +17,7 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="350px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-- 🌐 Web Technologies:
+- 🌐 Web:
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css&logoColor=ffffff)](https://w3.org/Style/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info)
