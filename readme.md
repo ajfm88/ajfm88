@@ -22,6 +22,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css&logoColor=ffffff)](https://w3.org/Style/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com)
 - 💻 Programming Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org)
 [![C#](https://img.shields.io/badge/C%23-7231C6?&logo=unity)](https://dotnet.microsoft.com/en-us/languages/csharp)
