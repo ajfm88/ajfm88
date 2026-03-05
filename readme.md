@@ -93,8 +93,9 @@
       <td align="center" height="108" width="108">
         <a href="https://javascript.info" target="_blank">
         <img
-          animated="./JavaScript.gif"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          src="./JavaScript.gif"
+          src1="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
+          black="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           white="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
           width="65"
           height="65"
@@ -149,15 +150,16 @@
         </a>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://aws.amazon.com" target="_blank">
+        <a href="https://git-scm.com" target="_blank">
         <img
-          src="https://techstack-generator.vercel.app/aws-icon.svg"
+          src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
+          null1="https://techstack-generator.vercel.app/aws-icon.svg"
           null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-          width="65"
-          height="65"
-          alt="AWS"
+          width="95"
+          height="95"
+          alt="Git"
         />
-        <br /><strong>AWS</strong>
+        <br /><strong>Git</strong>
         </a>
       </td>
     </tr>
@@ -200,7 +202,8 @@
       <td align="center" height="108" width="108">
         <a href="https://nodejs.org" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+          src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
+          null1="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
           null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
           width="65"
           height="65"
@@ -210,14 +213,16 @@
         </a>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://restfulapi.net" target="_blank">
+        <a href="https://code.visualstudio.com" target="_blank">
         <img
-          src="https://techstack-generator.vercel.app/restapi-icon.svg"
+          src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
+          null1="https://techstack-generator.vercel.app/redux-icon.svg"
+          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
           width="65"
           height="65"
-          alt="REST API"
+          alt="Visual Studio Code"
         />
-        <br /><strong>REST API</strong>
+        <br /><strong>VS Code</strong>
         </a>
       </td>
       <td align="center" height="108" width="108">
@@ -233,15 +238,14 @@
         </a>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://redux.js.org" target="_blank">
+        <a href="https://restfulapi.net" target="_blank">
         <img
-          src="https://techstack-generator.vercel.app/redux-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+          src="https://techstack-generator.vercel.app/restapi-icon.svg"
           width="65"
           height="65"
-          alt="Redux"
+          alt="REST API"
         />
-        <br /><strong>Redux</strong>
+        <br /><strong>REST API</strong>
         </a>
       </td>
       <td align="center" height="108" width="108">
@@ -285,6 +289,8 @@
   <img src="https://github.com/user-attachments/assets/0b081080-f36d-4729-af06-f5217e3b096a" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Let’s Stay Connected:</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Let's Stay Connected:</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajfm88)
+[<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="28">](https://linktr.ee/ajfm88)
+[![](https://img.shields.io/badge/Social%20Media-8B0015?style=for-the-badge)](https://linktr.ee/ajfm88)
