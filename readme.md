@@ -5,8 +5,10 @@
   <img width="800" height="450" src="./matrix.svg" alt="The Matrix" />
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile!;My+name+is+Alejandro+Foucault;I’m+a+Full+Stack+Developer&center=true"; alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile!;My+name+is+Alejandro+J.+Foucault;I’m+a+Full+Stack+Developer&center=true"; alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Welcome+to+my+profile!;My+name+is+Alejandro+J.+Foucault;I'm+a+Full+Stack+Software+Engineer" alt="Typing SVG" />
 </div>
+
 <!-- <h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Alejandro.</h1> -->
 <!-- <h3 align="center">A passionate Junior Software Developer working for the Hollywood movie industry and based in L.A.</h3> -->
 <p align="center">
@@ -291,6 +293,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Let's Stay Connected:</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajfm88)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="28">](https://linkedin.com/in/ajfm88)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/ajfm88)
 [<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" height="28">](https://linktr.ee/ajfm88)
 [![](https://img.shields.io/badge/Social%20Media-8B0015?style=for-the-badge)](https://linktr.ee/ajfm88)
+[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="28">](https://discord.com/users/ajfm88_)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ajfm88_)
