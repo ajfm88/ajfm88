@@ -66,203 +66,26 @@
 ## 🛠️ Technologies & Tools:
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" height="108" width="108">
-        <a href="https://html.spec.whatwg.org" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-          width="65"
-          height="65"
-          alt="HTML"
-        />
-        <br /><strong>HTML5</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://w3.org/Style/CSS" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-          width="65"
-          height="65"
-          alt="CSS3"
-        />
-        <br /><strong>CSS3</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://javascript.info" target="_blank">
-        <img
-          src="./JavaScript.gif"
-          src1="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
-          black="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          white="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-          width="65"
-          height="65"
-          alt="JavaScript"
-        />
-        <br /><strong>JavaScript</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://typescriptlang.org" target="_blank">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-          width="65"
-          height="65"
-          alt="TypeScript"
-        />
-        <br /><strong>TypeScript</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://python.org" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/python-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          width="65"
-          height="65"
-          alt="Python"
-        />
-        <br /><strong>Python</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/csharp-icon.svg"
-          width="85"
-          height="85"
-          alt="C#"
-        />
-        <br /><strong>C#</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://www.mysql.com" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/mysql-icon.svg"
-          width="55"
-          height="55"
-          alt="MySQL"
-        />
-        <br /><strong>MySQL</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://git-scm.com" target="_blank">
-        <img
-          src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
-          null1="https://techstack-generator.vercel.app/aws-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-          width="95"
-          height="95"
-          alt="Git"
-        />
-        <br /><strong>Git</strong>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="108" width="108">
-        <a href="https://mongodb.com" target="_blank">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          null="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          width="65"
-          height="65"
-          alt="MongoDB"
-        />
-        <br /><strong>MongoDB</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://expressjs.com" target="_blank">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-          width="65"
-          height="65"
-          alt="Express"
-        />
-        <br /><strong>Express</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://react.dev" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/react-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          width="65"
-          height="65"
-          alt="React"
-        />
-        <br /><strong>React</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://nodejs.org" target="_blank">
-        <img
-          src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
-          null1="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          width="65"
-          height="65"
-          alt="Node.js"
-        />
-        <br /><strong>Node.js</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://code.visualstudio.com" target="_blank">
-        <img
-          src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
-          null1="https://techstack-generator.vercel.app/redux-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-          width="65"
-          height="65"
-          alt="Visual Studio Code"
-        />
-        <br /><strong>VS Code</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://prettier.io" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/prettier-icon.svg"
-          null="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-          width="65"
-          height="65"
-          alt="Prettier"
-        />
-        <br /><strong>Prettier</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://restfulapi.net" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/restapi-icon.svg"
-          width="65"
-          height="65"
-          alt="REST API"
-        />
-        <br /><strong>REST API</strong>
-        </a>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://github.com" target="_blank">
-        <img
-          src="https://techstack-generator.vercel.app/github-icon.svg"
-          width="65"
-          height="65"
-          alt="GitHub"
-        />
-        <br /><strong>GitHub</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="HTML" /></a>
+  <a href="https://w3.org/Style/CSS" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" alt="CSS3" /></a>
+  <a href="https://javascript.info" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JavaScript" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" alt="TypeScript" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" alt="Python" /></a>
+  <a href="https://jestjs.io" target="_blank"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="100" alt="Jest" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Git" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" alt="MongoDB" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" alt="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Node.js" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="VS Code" /></a>
+  <a href="https://prettier.io" target="_blank"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="100" alt="Prettier" /></a>
+  <a href="https://eslint.org" target="_blank"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="100" alt="ESLint" /></a>
+  <a href="https://webpack.js.org" target="_blank"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="100" alt="Webpack" /></a>
+  <a href="https://restfulapi.net" target="_blank"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" alt="REST API" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" alt="GitHub" /></a>
+  <a href="https://docker.com" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100" alt="Docker" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="100" alt="AWS" /></a>
 </p>
 
 ## ⭐ GitHub Commits & Contributions:
