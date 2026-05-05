@@ -56,20 +56,20 @@
   <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" alt="TypeScript" /></a>
   <a href="https://python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" alt="Python" /></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="100" alt="Jest" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" /></a>
+  <a href="https://postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="./assets/git.gif" width="100" alt="Git" /></a>
   <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" alt="MongoDB" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express" /></a>
   <a href="https://react.dev" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" alt="React" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="./assets/node.gif" width="100" alt="Node.js" /></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="./assets/vscode.gif" width="100" alt="VS Code" /></a>
-  <a href="https://prettier.io" target="_blank"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="100" alt="Prettier" /></a>
-<!--<a href="https://eslint.org" target="_blank"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="100" alt="ESLint" /></a>-->
-<!--<a href="https://webpack.js.org" target="_blank"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="100" alt="Webpack" /></a>-->
-<!--<a href="https://restfulapi.net" target="_blank"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" alt="REST API" /></a>-->
+  <a href="https://restfulapi.net" target="_blank"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" alt="REST API" /></a>
   <a href="https://github.com" target="_blank"><img src="./assets/github.gif" width="100" alt="GitHub" /></a>
-<!--<a href="https://docker.com" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100" alt="Docker" /></a>-->
+  <a href="https://docker.com" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100" alt="Docker" /></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="100" alt="AWS" /></a>
+  <!--<a href="https://code.visualstudio.com" target="_blank"><img src="./assets/vscode.gif" width="100" alt="VS Code" /></a>
+  <a href="https://prettier.io" target="_blank"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="100" alt="Prettier" /></a>
+  <a href="https://eslint.org" target="_blank"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="100" alt="ESLint" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" /></a>-->
 </p>
 
 ## ⭐ GitHub Commits & Contributions:
