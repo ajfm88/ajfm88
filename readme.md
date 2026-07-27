@@ -5,7 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Welcome+to+my+profile!;My+name+is+Alejandro+J.+Foucault;I'm+a+Full+Stack+Software+Engineer" alt="Typing SVG" />
 </div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" />
+  <a href="https://pac-man-ajfm88.netlify.app">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+      alt="Play Pac-Man"
+    />
+  </a>
 </p>
 
 ## 🔎 About Me:
