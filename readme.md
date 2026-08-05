@@ -79,11 +79,13 @@
 
 ## ⭐ GitHub Commits & Contributions:
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph.svg">
-  </picture>
+  <a href="https://pac-man-ajfm88.netlify.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph.svg">
+      <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ajfm88/ajfm88/output/pacman-contribution-graph.svg">
+    </picture>
+    </a>
 </p>
 
 <!-- ![JavaScript](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif) -->
