@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="450" src="./assets/matrix.svg" alt="The Matrix" />
+  <img width="800" src="./assets/matrix.svg" alt="The Matrix" />
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=26&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=Welcome+to+my+profile!;I’m+Alejandro+J.+Foucault;Software+Engineer;Web+Developer" alt="Name" />
