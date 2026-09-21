@@ -31,7 +31,7 @@ Outside of code, I speak 🇺🇸 English, 🇻🇪/🇪🇸 Spanish, and I'm le
   <a href="https://javascript.info" target="_blank"><img src="./assets/javascript.gif" width="100" alt="JavaScript" /></a>
   <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" alt="TypeScript" /></a>
   <a href="https://python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" alt="Python" /></a>
-  <a href="https://jestjs.io" target="_blank"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="100" alt="Jest" /></a>
+  <a href="https://java.com" target="_blank"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" alt="Java" /></a>
   <a href="https://postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="./assets/git.gif" width="100" alt="Git" /></a>
   <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" alt="MongoDB" /></a>
@@ -45,7 +45,8 @@ Outside of code, I speak 🇺🇸 English, 🇻🇪/🇪🇸 Spanish, and I'm le
   <!--<a href="https://code.visualstudio.com" target="_blank"><img src="./assets/vscode.gif" width="100" alt="VS Code" /></a>
   <a href="https://prettier.io" target="_blank"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="100" alt="Prettier" /></a>
   <a href="https://eslint.org" target="_blank"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="100" alt="ESLint" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" /></a>-->
+  <a href="https://jestjs.io" target="_blank"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="100" alt="Jest" /></a>
+  <a href="https://mysql.com" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" /></a>-->
 </p>
 
 ## ⭐ GitHub Commits & Contributions:
