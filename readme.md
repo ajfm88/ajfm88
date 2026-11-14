@@ -29,13 +29,13 @@ Outside of code, I speak 🇺🇸 English, 🇻🇪/🇪🇸 Spanish, and I'm le
   <a href="https://html.spec.whatwg.org" target="_blank"><img src="./assets/html5.gif" width="100" alt="HTML" /></a>
   <a href="https://w3.org/Style/CSS" target="_blank"><img src="./assets/css3.gif" width="100" alt="CSS3" /></a>
   <a href="https://javascript.info" target="_blank"><img src="./assets/javascript.gif" width="100" alt="JavaScript" /></a>
-  <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" alt="TypeScript" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/typescript.svg" width="100" alt="TypeScript" /></a>
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="100" alt="Python" /></a>
   <a href="https://java.com" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/java-icon.svg" width="100" alt="Java" /></a>
-  <a href="https://postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/postgresql.svg" width="100" alt="PostgreSQL" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="./assets/git.gif" width="100" alt="Git" /></a>
-  <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" alt="MongoDB" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/mongodb.svg" width="100" alt="MongoDB" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/express.svg" width="100" alt="Express" /></a>
   <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="100" alt="React" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="./assets/node.gif" width="100" alt="Node.js" /></a>
   <a href="https://restfulapi.net" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/restapi-icon.svg" width="100" alt="REST API" /></a>
