@@ -17,7 +17,7 @@
 
 Full stack developer at the **Los Angeles Department of Transportation**, building and modernizing web apps for the City of Los Angeles’s **2028 Olympic transportation** work.
 
-I started in C++ and MySQL in college, taught Python and web basics to K–12 students, then spent three years shipping features on a production rental/inventory platform (Meteor, Node, MongoDB, Astro). Now I work across **TypeScript, React, .NET Core, C#, SQL Server, and Azure**, including ArcGIS-backed mapping on large spatial datasets.
+I started in C++ and MySQL in college, taught Python and web basics to K–12 students, then spent three and a half years shipping features on a production rental/inventory platform (Meteor, Node, MongoDB, Astro). Now I work across **TypeScript, React, Node.js/Express, and PostgreSQL (Prisma)**, including ArcGIS-backed mapping on large spatial datasets. I also design APIs alongside a .NET Core/C# backend team as I learn **.NET Core, C#, SQL Server, and Azure**.
 
 Outside of work I’m finishing an **M.S. in Computer Science** (4.0) and building full-stack products with Next.js, Postgres, and a growing amount of AI in the loop.
 
