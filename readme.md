@@ -1,23 +1,24 @@
-<p align="center">
-  <img width="800" src="./assets/matrix.svg" alt="The Matrix" />
-</p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=26&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=Welcome+to+my+profile!;I’m+Alejandro+J.+Foucault;Software+Engineer;Web+Developer" alt="Name" />
-</div>
-<p align="center">
-  <a href="https://pac-man-ajfm88.netlify.app">
-    <img
-      src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-      alt="Play Pac-Man"
-    />
+  <a href="https://hackertyper.net">
+    <img width="800" src="./assets/matrix.svg" alt="The Matrix" />
   </a>
-</p>
+</div>
+<div align="center">
+  <a href="https://ajfm88.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=26&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=Welcome+to+my+profile!;I’m+Alejandro+J.+Foucault;Software+Engineer;Web+Developer" alt="Name" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://pac-man-ajfm88.netlify.app">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Play Pac-Man" />
+  </a>
+</div>
 
 ## 🔎 About Me:
 
 Full stack developer at the **Los Angeles Department of Transportation**, building and modernizing web apps for the City of Los Angeles’s **2028 Olympic transportation** work.
 
-I started in C++ and MySQL in college, taught Python and web basics to K–12 students, then spent three and a half years shipping features on a production rental/inventory platform (Meteor, Node, MongoDB, Astro). Now I work across **TypeScript, React, Node.js/Express, and PostgreSQL (Prisma)**, including ArcGIS-backed mapping on large spatial datasets. I also design APIs alongside a .NET Core/C# backend team as I learn **.NET Core, C#, SQL Server, and Azure**.
+I started in C++ and MySQL in college, taught Python and web basics to K–12 students, then spent three and a half years in the Entertainment industry shipping features on a production rental/inventory platform (Meteor, Node, MongoDB, Astro). Now, working for the city of Los Angeles, I work across **TypeScript, React, Node.js/Express, and PostgreSQL (Prisma)**, including ArcGIS-backed mapping on large spatial datasets. I also design APIs alongside a .NET Core/C# backend team as I learn **.NET Core, C#, SQL Server, and Azure**.
 
 Outside of work I’m finishing an **M.S. in Computer Science** (4.0) and building full-stack products with Next.js, Postgres, and a growing amount of AI in the loop.
 
@@ -29,12 +30,12 @@ Outside of code, I speak 🇺🇸 English, 🇻🇪/🇪🇸 Spanish, and I'm le
   <a href="https://html.spec.whatwg.org" target="_blank"><img src="./assets/html5.gif" width="100" alt="HTML" /></a>
   <a href="https://w3.org/Style/CSS" target="_blank"><img src="./assets/css3.gif" width="100" alt="CSS3" /></a>
   <a href="https://javascript.info" target="_blank"><img src="./assets/javascript.gif" width="100" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/typescript.svg" width="100" alt="TypeScript" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/typescript.svg" width="100" alt="TypeScript" /></a>
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="100" alt="Python" /></a>
   <a href="https://java.com" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/java-icon.svg" width="100" alt="Java" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/postgresql.svg" width="100" alt="PostgreSQL" /></a>
+  <a href="https://postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/postgresql.svg" width="100" alt="PostgreSQL" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="./assets/git.gif" width="100" alt="Git" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/mongodb.svg" width="100" alt="MongoDB" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/mongodb.svg" width="100" alt="MongoDB" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/ThanhNguyxnOrg/Techstack-Studio/main/public/icons/animated/express.svg" width="100" alt="Express" /></a>
   <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="100" alt="React" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="./assets/node.gif" width="100" alt="Node.js" /></a>
